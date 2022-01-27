@@ -1,3 +1,7 @@
+<h1 align="center">
+ <img src="image-url-here" />
+</h1>
+
 - 👋 Hi, I’m @Lexuz17
 - 👀 I’m interested in make a application that can help many people
 - 🌱 I’m currently learning computer science
