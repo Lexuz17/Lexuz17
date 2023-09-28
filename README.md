@@ -1,5 +1,5 @@
 ## I'm a Student and still trying to be software engineer 👋
-- 👋 Hi, I’m @Lexuz
+- 👋 Hi, I’m Jason Susanto
 - 👀 I’m interested in make a application that can help many people
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate with other software engineers
